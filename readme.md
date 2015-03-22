@@ -1,5 +1,5 @@
 ## Sublime Text 2/3 Packages
-A list of Sublime Text packages that I usually use working on a HTML/CSS/LESS/Javascript/PHP stack. There is, also, a small list of packages that I'm currently testing to check the usefulness and performance on my work environment.
+A list of Sublime Text packages that I use working on a HTML/CSS/LESS/Javascript/PHP stack. There is, also, a small list of packages that I'm currently testing, to check the usefulness and performance on my work environment.
 
 #### Language Syntax
 
