@@ -39,7 +39,7 @@ Side​Bar​Enhancements -- <https://github.com/titoBouzout/SideBarEnhancements
 Synced Sidebar -- <https://github.com/sobstel/SyncedSideBar><br>
 Sublime Text Git -- <https://github.com/kemayo/sublime-text-git><br>
 Git Conflict Resolver -- <https://github.com/Zeeker/sublime-GitConflictResolver><br>
-Sublime Valign -- <https://github.com/jarod2d/sublime_valign><br>
+Sublime Valign -- <https://github.com/jarod2d/sublime_valign> -- *Default keymap can cause some problems*<br>
 DocBlockr -- <https://github.com/spadgos/sublime-jsdocs><br>
 Sublime SFTP -- <http://wbond.net/sublime_packages/sftp><br>
 
@@ -60,5 +60,5 @@ Grandson of Obsidian -- <https://github.com/jfromaniello/Grandson-of-Obsidian><b
 Monokay Gravity -- <https://github.com/frankyonnetti/gravity-sublime-theme> -- *Part of the Gravity Theme*
 
 ## Testing
-Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel> -- *Less/CSS support is currently borken*<br>
+Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel> -- *Less/CSS support is currently broken*<br>
 Ctags -- <https://github.com/SublimeText/CTags> -- *Tries to autocomplete everything, everywhere. Needs more test.*<br>
