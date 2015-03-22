@@ -4,16 +4,16 @@ Because there are so many and I'm picky.
 #### Language Syntax
 
 Javacript Ultimate -- <https://github.com/JoshuaWise/javascript-ultimate><br>
-Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 LESS-sublime -- <https://github.com/danro/LESS-sublime><br>
 
+Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 MarkdownEditing -- <https://github.com/SublimeText-Markdown/MarkdownEditing><br>
 
 #### Completions / Snippets
 
 CSS Extended Completions -- <https://github.com/subhaze/CSS-Extended> -- *The best LESS variables support on Sublime*<br>
-Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 
+Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 JS Patterns and Snippets -- <https://github.com/caiogondim/js-patterns-sublime-snippets><br>
 Drupal Completions -- <https://github.com/flashvnn/Drupal-Completion-ST><br>
 
