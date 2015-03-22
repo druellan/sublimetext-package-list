@@ -3,69 +3,67 @@ Because there are so many and I'm picky.
 
 #### Language Syntax
 
-Javacript Ultimate -- <https://github.com/JoshuaWise/javascript-ultimate>
-Jquery Package -- <https://github.com/SublimeText/jQuery>
-LESS-sublime -- <https://github.com/danro/LESS-sublime>
+Javacript Ultimate -- <https://github.com/JoshuaWise/javascript-ultimate><br>
+Jquery Package -- <https://github.com/SublimeText/jQuery><br>
+LESS-sublime -- <https://github.com/danro/LESS-sublime><br>
 
-MarkdownEditing -- <https://github.com/SublimeText-Markdown/MarkdownEditing>
+MarkdownEditing -- <https://github.com/SublimeText-Markdown/MarkdownEditing><br>
 
 #### Completions / Snippets
 
-CSS Extended Completions -- <https://github.com/subhaze/CSS-Extended>
-*The best LESS variables support on Sublime*
+CSS Extended Completions -- <https://github.com/subhaze/CSS-Extended><br>
+*The best LESS variables support on Sublime*<br>
+Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 
-Jquery Package -- <https://github.com/SublimeText/jQuery>
-
-JS Patterns and Snippets -- <https://github.com/caiogondim/js-patterns-sublime-snippets>
-Drupal Completions -- <https://github.com/flashvnn/Drupal-Completion-ST>
+JS Patterns and Snippets -- <https://github.com/caiogondim/js-patterns-sublime-snippets><br>
+Drupal Completions -- <https://github.com/flashvnn/Drupal-Completion-ST><br>
 
 #### Validation / Linting
 
-Sublime Linter 3 -- <https://github.com/SublimeLinter/SublimeLinter3>
-> Sublimelinter - CSSlint -- <https://github.com/SublimeLinter/SublimeLinter-csslint>
-> Sublimelinter - JShint -- <https://github.com/SublimeLinter/SublimeLinter-jshint>
-> Sublimelinter - HTML Tidy -- <https://github.com/SublimeLinter/SublimeLinter-html-tidy>
-> Sublimelinter - PHP -- <https://github.com/SublimeLinter/SublimeLinter-php>
+Sublime Linter 3 -- <https://github.com/SublimeLinter/SublimeLinter3><br>
+> Sublimelinter - CSSlint -- <https://github.com/SublimeLinter/SublimeLinter-csslint><br>
+> Sublimelinter - JShint -- <https://github.com/SublimeLinter/SublimeLinter-jshint><br>
+> Sublimelinter - HTML Tidy -- <https://github.com/SublimeLinter/SublimeLinter-html-tidy><br>
+> Sublimelinter - PHP -- <https://github.com/SublimeLinter/SublimeLinter-php><br>
 
 #### Visual Aids
 
-Bracket Highlighter -- <https://github.com/facelessuser/BracketHighlighter>
-Color Highlighter -- <https://github.com/Monnoroch/ColorHighlighter>
-Modific -- <https://github.com/gornostal/Modific>
+Bracket Highlighter -- <https://github.com/facelessuser/BracketHighlighter><br>
+Color Highlighter -- <https://github.com/Monnoroch/ColorHighlighter><br>
+Modific -- <https://github.com/gornostal/Modific><br>
 
-GitGutter -- <https://github.com/jisaacks/GitGutter>
-*More advanced than Modific, but can't show changes*
+GitGutter -- <https://github.com/jisaacks/GitGutter><br>
+*More advanced than Modific, but can't show changes*<br>
 
 #### Tools
 
-Side​Bar​Enhancements -- <https://github.com/titoBouzout/SideBarEnhancements>
-Synced Sidebar -- <https://github.com/sobstel/SyncedSideBar>
-Sublime Text Git -- <https://github.com/kemayo/sublime-text-git>
-Git Conflict Resolver -- <https://github.com/Zeeker/sublime-GitConflictResolver>
-Sublime Valign -- <https://github.com/jarod2d/sublime_valign>
-DocBlockr -- <https://github.com/spadgos/sublime-jsdocs>
-Sublime SFTP -- <http://wbond.net/sublime_packages/sftp>
+Side​Bar​Enhancements -- <https://github.com/titoBouzout/SideBarEnhancements><br>
+Synced Sidebar -- <https://github.com/sobstel/SyncedSideBar><br>
+Sublime Text Git -- <https://github.com/kemayo/sublime-text-git><br>
+Git Conflict Resolver -- <https://github.com/Zeeker/sublime-GitConflictResolver><br>
+Sublime Valign -- <https://github.com/jarod2d/sublime_valign><br>
+DocBlockr -- <https://github.com/spadgos/sublime-jsdocs><br>
+Sublime SFTP -- <http://wbond.net/sublime_packages/sftp><br>
 
-Sublime Alignment -- <https://github.com/wbond/sublime_alignment>
-FTPSync - <https://github.com/NoxArt/SublimeText2-FTPSync>
+Sublime Alignment -- <https://github.com/wbond/sublime_alignment><br>
+FTPSync - <https://github.com/NoxArt/SublimeText2-FTPSync><br>
 
 #### Themes
 
-Gravity Sublime Theme -- <https://github.com/frankyonnetti/gravity-sublime-theme>
-Centurion -- <https://github.com/allanhortle/Centurion>
+Gravity Sublime Theme -- <https://github.com/frankyonnetti/gravity-sublime-theme><br>
+Centurion -- <https://github.com/allanhortle/Centurion><br>
 
-Theme Asphalt -- <https://github.com/Orlmente/Theme-Asphalt>
-Cyanide Theme -- <https://github.com/lefoy/cyanide-theme>
+Theme Asphalt -- <https://github.com/Orlmente/Theme-Asphalt><br>
+Cyanide Theme -- <https://github.com/lefoy/cyanide-theme><br>
 
 #### Color Schemes
 
-Grandson of Obsidian -- <https://github.com/jfromaniello/Grandson-of-Obsidian>
-Monokay Gravity -- <https://github.com/frankyonnetti/gravity-sublime-theme>
+Grandson of Obsidian -- <https://github.com/jfromaniello/Grandson-of-Obsidian><br>
+Monokay Gravity -- <https://github.com/frankyonnetti/gravity-sublime-theme><br>
 *Part of the Gravity Theme*
 
 ## Testing
-Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel>
-*Less/CSS support is currently borken*
-
-Ctags -- <https://github.com/SublimeText/CTags>
-*Tries to autocomplete EVERYTHING. Needs more test.*
+Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel><br>
+*Less/CSS support is currently borken*<br>
+Ctags -- <https://github.com/SublimeText/CTags><br>
+*Tries to autocomplete EVERYTHING. Needs more test.*<br>
