@@ -11,8 +11,7 @@ MarkdownEditing -- <https://github.com/SublimeText-Markdown/MarkdownEditing><br>
 
 #### Completions / Snippets
 
-CSS Extended Completions -- <https://github.com/subhaze/CSS-Extended><br>
-*The best LESS variables support on Sublime*<br>
+CSS Extended Completions -- <https://github.com/subhaze/CSS-Extended> -- *The best LESS variables support on Sublime*<br>
 Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 
 JS Patterns and Snippets -- <https://github.com/caiogondim/js-patterns-sublime-snippets><br>
@@ -32,8 +31,7 @@ Bracket Highlighter -- <https://github.com/facelessuser/BracketHighlighter><br>
 Color Highlighter -- <https://github.com/Monnoroch/ColorHighlighter><br>
 Modific -- <https://github.com/gornostal/Modific><br>
 
-GitGutter -- <https://github.com/jisaacks/GitGutter><br>
-*More advanced than Modific, but can't show changes*<br>
+GitGutter -- <https://github.com/jisaacks/GitGutter> -- *More advanced than Modific, but can't show changes*<br>
 
 #### Tools
 
@@ -59,11 +57,8 @@ Cyanide Theme -- <https://github.com/lefoy/cyanide-theme><br>
 #### Color Schemes
 
 Grandson of Obsidian -- <https://github.com/jfromaniello/Grandson-of-Obsidian><br>
-Monokay Gravity -- <https://github.com/frankyonnetti/gravity-sublime-theme><br>
-*Part of the Gravity Theme*
+Monokay Gravity -- <https://github.com/frankyonnetti/gravity-sublime-theme> -- *Part of the Gravity Theme*
 
 ## Testing
-Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel><br>
-*Less/CSS support is currently borken*<br>
-Ctags -- <https://github.com/SublimeText/CTags><br>
-*Tries to autocomplete EVERYTHING. Needs more test.*<br>
+Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel> -- *Less/CSS support is currently borken*<br>
+Ctags -- <https://github.com/SublimeText/CTags> -- *Tries to autocomplete everything, everywhere. Needs more test.*<br>
