@@ -43,6 +43,7 @@ Git Conflict Resolver -- <https://github.com/Zeeker/sublime-GitConflictResolver>
 Sublime Valign -- <https://github.com/jarod2d/sublime_valign> -- *Default keymap can cause some problems*<br>
 DocBlockr -- <https://github.com/spadgos/sublime-jsdocs><br>
 Sublime SFTP -- <http://wbond.net/sublime_packages/sftp><br>
+OmniMarkupPreviewer -- <https://github.com/timonwong/OmniMarkupPreviewer><br>
 
 Sublime Alignment -- <https://github.com/wbond/sublime_alignment><br>
 FTPSync - <https://github.com/NoxArt/SublimeText2-FTPSync><br>
