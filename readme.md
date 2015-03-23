@@ -5,6 +5,7 @@ A list of Sublime Text packages that I use working on a HTML/CSS/LESS/Javascript
 
 Javacript Ultimate -- <https://github.com/JoshuaWise/javascript-ultimate><br>
 LESS-sublime -- <https://github.com/danro/LESS-sublime><br>
+Sass -- <https://packagecontrol.io/packages/Sass><br>
 
 Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 MarkdownEditing -- <https://github.com/SublimeText-Markdown/MarkdownEditing><br>
@@ -62,3 +63,6 @@ Monokay Gravity -- <https://github.com/frankyonnetti/gravity-sublime-theme> -- *
 ## Testing
 Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel> -- *Less/CSS support is currently broken*<br>
 Ctags -- <https://github.com/SublimeText/CTags> -- *Tries to autocomplete everything, everywhere. Needs more test.*<br>
+sublime-list-less-vars -- <https://github.com/MaciekBaron/sublime-list-less-vars><br>
+Syntax-highlighting-for-Sass -- <https://github.com/P233/Syntax-highlighting-for-Sass><br>
+SCSS.tmbundle -- <https://github.com/MarioRicalde/SCSS.tmbundle><br>
