@@ -3,11 +3,10 @@ A list of Sublime Text packages that I use working on a HTML/CSS/LESS/Javascript
 
 #### Language Syntax
 
-Javacript Ultimate -- <https://github.com/JoshuaWise/javascript-ultimate><br>
 LESS-sublime -- <https://github.com/danro/LESS-sublime><br>
 Sass -- <https://packagecontrol.io/packages/Sass><br>
-
 Jquery Package -- <https://github.com/SublimeText/jQuery><br>
+
 MarkdownEditing -- <https://github.com/SublimeText-Markdown/MarkdownEditing><br>
 
 #### Completions / Snippets
@@ -62,6 +61,7 @@ Grandson of Obsidian -- <https://github.com/jfromaniello/Grandson-of-Obsidian><b
 Monokay Gravity -- <https://github.com/frankyonnetti/gravity-sublime-theme> -- *Part of the Gravity Theme*
 
 ## Testing
+Javacript Ultimate -- <https://github.com/JoshuaWise/javascript-ultimate><br>
 Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel> -- *Less/CSS support is currently broken*<br>
 Ctags -- <https://github.com/SublimeText/CTags> -- *Tries to autocomplete everything, everywhere. Needs more test.*<br>
 sublime-list-less-vars -- <https://github.com/MaciekBaron/sublime-list-less-vars><br>
