@@ -51,10 +51,10 @@ FTPSync - <https://github.com/NoxArt/SublimeText2-FTPSync><br>
 
 Gravity Sublime Theme -- <https://github.com/frankyonnetti/gravity-sublime-theme><br>
 Centurion -- <https://github.com/allanhortle/Centurion><br>
-
 Theme Curiosity -- <https://github.com/dmnplb/curiosity><br>
+
 Theme Asphalt -- <https://github.com/Orlmente/Theme-Asphalt><br>
-Cyanide Theme -- <https://github.com/lefoy/cyanide-theme><br>
+Premier Theme -- <https://packagecontrol.io/packages/Theme%20-%20Primer><br>
 
 #### Color Schemes
 
