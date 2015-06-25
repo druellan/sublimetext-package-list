@@ -40,6 +40,7 @@ Synced Sidebar -- <https://github.com/sobstel/SyncedSideBar><br>
 Sublime Text Git -- <https://github.com/kemayo/sublime-text-git><br>
 Git Conflict Resolver -- <https://github.com/Zeeker/sublime-GitConflictResolver><br>
 Sublime Valign -- <https://github.com/jarod2d/sublime_valign> -- *Default keymap can cause some problems*<br>
+Autoprefixer -- <https://github.com/sindresorhus/sublime-autoprefixer>
 DocBlockr -- <https://github.com/spadgos/sublime-jsdocs><br>
 Sublime SFTP -- <http://wbond.net/sublime_packages/sftp><br>
 OmniMarkupPreviewer -- <https://github.com/timonwong/OmniMarkupPreviewer><br>
