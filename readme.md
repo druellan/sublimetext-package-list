@@ -4,11 +4,11 @@ A list of Sublime Text packages that I use working on a HTML/CSS/Javascript/PHP 
 #### Language Syntax
 
 LESS-sublime -- <https://github.com/danro/LESS-sublime><br>
-Syntax highlight for Sass -- <https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass>*Perhaps a bit overkill, but works nicely*<br>
+Syntax highlight for Sass -- <https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass> -- *Perhaps a bit overkill, but works nicely*<br>
 Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 
 MarkdownEditing -- <https://github.com/SublimeText-Markdown/MarkdownEditing><br>
-SCSS.tmbundle -- <https://github.com/MarioRicalde/SCSS.tmbundle>*Nice patterns but has problems*<br>
+SCSS.tmbundle -- <https://github.com/MarioRicalde/SCSS.tmbundle> -- *Nice and simple but has problems*<br>
 
 #### Completions / Snippets
 
