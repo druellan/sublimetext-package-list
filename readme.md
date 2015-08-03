@@ -3,9 +3,11 @@ A list of Sublime Text packages that I use working on a HTML/CSS/Javascript/PHP 
 
 #### Language Syntax
 
+CSS3 -- <https://github.com/y0ssar1an/CSS3><br>
+Javacript Ultimate -- <https://github.com/JoshuaWise/javascript-ultimate> -- *Some problem with the Linter package. Take a look at the readme*<br>
+Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 LESS-sublime -- <https://github.com/danro/LESS-sublime><br>
 Syntax highlight for Sass -- <https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass> -- *Perhaps a bit overkill, but works nicely*<br>
-Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 
 MarkdownEditing -- <https://github.com/SublimeText-Markdown/MarkdownEditing><br>
 SCSS.tmbundle -- <https://github.com/MarioRicalde/SCSS.tmbundle> -- *Nice and simple but has problems*<br>
@@ -26,6 +28,7 @@ Sublime Linter 3 -- <https://github.com/SublimeLinter/SublimeLinter3><br>
 > Sublimelinter - JShint -- <https://github.com/SublimeLinter/SublimeLinter-jshint><br>
 > Sublimelinter - HTML Tidy -- <https://github.com/SublimeLinter/SublimeLinter-html-tidy><br>
 > Sublimelinter - PHP -- <https://github.com/SublimeLinter/SublimeLinter-php><br>
+> SublimeLinter-scss-lint -- <https://github.com/attenzione/SublimeLinter-scss-linter> -- *Remember that SCSS lint is Ruby based*<br>
 
 #### Visual Aids
 
@@ -66,7 +69,7 @@ Grandson of Obsidian -- <https://github.com/jfromaniello/Grandson-of-Obsidian><b
 Monokay Gravity -- <https://github.com/frankyonnetti/gravity-sublime-theme> -- *Part of the Gravity Theme*
 
 ## Testing
-Javacript Ultimate -- <https://github.com/JoshuaWise/javascript-ultimate><br>
+
 Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel> -- *Less/CSS support is currently broken*<br>
 Ctags -- <https://github.com/SublimeText/CTags> -- *Tries to autocomplete everything, everywhere. Needs more test.*<br>
 sublime-list-less-vars -- <https://github.com/MaciekBaron/sublime-list-less-vars><br>
