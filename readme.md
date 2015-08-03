@@ -3,10 +3,10 @@ A list of Sublime Text packages that I use working on a HTML/CSS/Javascript/PHP 
 
 #### Language Syntax
 
-CSS3 -- <https://github.com/y0ssar1an/CSS3><br>
+Sublime CSS3 -- <https://github.com/i-akhmadullin/Sublime-CSS3><br>
 Javacript Ultimate -- <https://github.com/JoshuaWise/javascript-ultimate> -- *Some problem with the Linter package. Take a look at the readme*<br>
 Jquery Package -- <https://github.com/SublimeText/jQuery><br>
-LESS-sublime -- <https://github.com/danro/LESS-sublime><br>
+LESS-sublime -- <https://github.com/danro/LESS-sublime> -- *Also replaces base CSS package*<br>
 Syntax highlight for Sass -- <https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass> -- *Perhaps a bit overkill, but works nicely*<br>
 
 MarkdownEditing -- <https://github.com/SublimeText-Markdown/MarkdownEditing><br>
@@ -70,6 +70,7 @@ Monokay Gravity -- <https://github.com/frankyonnetti/gravity-sublime-theme> -- *
 
 ## Testing
 
+CSS3 -- <https://github.com/y0ssar1an/CSS3><br>
 Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel> -- *Less/CSS support is currently broken*<br>
 Ctags -- <https://github.com/SublimeText/CTags> -- *Tries to autocomplete everything, everywhere. Needs more test.*<br>
 sublime-list-less-vars -- <https://github.com/MaciekBaron/sublime-list-less-vars><br>
