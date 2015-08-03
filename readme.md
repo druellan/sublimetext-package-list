@@ -54,7 +54,7 @@ FTPSync - <https://github.com/NoxArt/SublimeText2-FTPSync><br>
 
 Gravity Sublime Theme -- <https://github.com/frankyonnetti/gravity-sublime-theme><br>
 Centurion -- <https://github.com/allanhortle/Centurion><br>
-Theme Curiosity -- <https://github.com/dmnplb/curiosity><b>r
+Theme Curiosity -- <https://github.com/dmnplb/curiosity><br>
 
 Theme Material -- <https://github.com/equinusocio/material-theme><br>
 Theme Asphalt -- <https://github.com/Orlmente/Theme-Asphalt><br>
