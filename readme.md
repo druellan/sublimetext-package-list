@@ -6,18 +6,17 @@ A list of Sublime Text packages that I use working on a HTML/CSS/Javascript/PHP 
 Javacript Ultimate -- <https://github.com/JoshuaWise/javascript-ultimate> -- *Some problem with the Linter package. Take a look at the readme*<br>
 Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 LESS-sublime -- <https://github.com/danro/LESS-sublime> -- *Also replaces base CSS package*<br>
-Syntax highlight for Sass -- <https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass> -- *Perhaps too many features, but works nicely. Also works as CSS syntax replacement*<br>
+SCSS.tmbundle -- <https://github.com/MarioRicalde/SCSS.tmbundle> -- *Soso syntax. Also works as CSS syntax replacement*<br>
 
 Sublime CSS3 -- <https://github.com/i-akhmadullin/Sublime-CSS3><br>
 MarkdownEditing -- <https://github.com/SublimeText-Markdown/MarkdownEditing><br>
-SCSS.tmbundle -- <https://github.com/MarioRicalde/SCSS.tmbundle> -- *Nice and simple but has problems. Also works as CSS syntax replacement*<br>
+Syntax highlight for Sass -- <https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass> -- *The best syntax. but no CSS completions.*<br>
 
 #### Completions / Snippets
 
 CSS Extended Completions -- <https://github.com/subhaze/CSS-Extended> -- *The best LESS/SCSS variables support on Sublime*<br>
 Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 
-Syntax-highlighting-for-Sass -- <https://github.com/P233/Syntax-highlighting-for-Sass><br>
 JS Patterns and Snippets -- <https://github.com/caiogondim/js-patterns-sublime-snippets><br>
 Drupal Completions -- <https://github.com/flashvnn/Drupal-Completion-ST><br>
 
@@ -55,17 +54,18 @@ FTPSync - <https://github.com/NoxArt/SublimeText2-FTPSync><br>
 
 #### Themes
 
-Gravity Sublime Theme -- <https://github.com/frankyonnetti/gravity-sublime-theme><br>
 Centurion -- <https://github.com/allanhortle/Centurion><br>
-Theme Curiosity -- <https://github.com/dmnplb/curiosity><br>
-
+Aprosopo -- <https://github.com/facelessuser/Aprosopo><br>
+Gravity Sublime Theme -- <https://github.com/frankyonnetti/gravity-sublime-theme><br>
 Theme Material -- <https://github.com/equinusocio/material-theme><br>
+
+Theme Curiosity -- <https://github.com/dmnplb/curiosity><br>
 Theme Asphalt -- <https://github.com/Orlmente/Theme-Asphalt><br>
 Premier Theme -- <https://packagecontrol.io/packages/Theme%20-%20Primer><br>
 
 #### Color Schemes
 
-Grandson of Obsidian -- <https://github.com/jfromaniello/Grandson-of-Obsidian><br>
+Grandson of Obsidian -- <https://github.com/jfromaniello/Grandson-of-Obsidian> -- *I have my own fork*<br>
 Monokay Gravity -- <https://github.com/frankyonnetti/gravity-sublime-theme> -- *Part of the Gravity Theme*
 
 ## Testing
