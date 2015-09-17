@@ -1,5 +1,5 @@
 ## Sublime Text 2/3 Packages
-A list of Sublime Text packages that I use working on a HTML/CSS/Javascript/PHP stack. There is, also, a small list of packages that I'm testing, to check the usefulness and performance on my work environment.
+A (kind of up-to-date) list of Sublime Text packages I regularly use on my HTML/CSS/Javascript/PHP dev stack. There is, also, a list of packages I'm testing, just to see if worth adopting.
 
 #### Language Syntax
 
@@ -48,7 +48,7 @@ DocBlockr -- <https://github.com/spadgos/sublime-jsdocs><br>
 Sublime SFTP -- <http://wbond.net/sublime_packages/sftp><br>
 OmniMarkupPreviewer -- <https://github.com/timonwong/OmniMarkupPreviewer><br>
 
-Autoprefixer -- <https://github.com/sindresorhus/sublime-autoprefixer>
+Autoprefixer -- <https://github.com/sindresorhus/sublime-autoprefixer><br>
 Sublime Alignment -- <https://github.com/wbond/sublime_alignment><br>
 FTPSync - <https://github.com/NoxArt/SublimeText2-FTPSync><br>
 
@@ -71,6 +71,7 @@ Monokay Gravity -- <https://github.com/frankyonnetti/gravity-sublime-theme> -- *
 ## Testing
 
 CSS3 -- <https://github.com/y0ssar1an/CSS3> -- *Nice up-to-date syntax, has its own validator*<br>
+HTML5 Snippets -- <https://github.com/mrmartineau/HTML5><br>
 Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel> -- *Less/CSS support is currently broken*<br>
 Ctags -- <https://github.com/SublimeText/CTags> -- *Tries to autocomplete everything, everywhere. Needs more test.*<br>
 sublime-list-less-vars -- <https://github.com/MaciekBaron/sublime-list-less-vars><br>
