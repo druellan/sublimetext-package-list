@@ -5,9 +5,10 @@ A (kind of up-to-date) list of Sublime Text packages I regularly use on my HTML/
 
 Javacript Ultimate -- <https://github.com/JoshuaWise/javascript-ultimate> -- *Some problem with the Linter package. Take a look at the readme*<br>
 Jquery Package -- <https://github.com/SublimeText/jQuery><br>
-LESS-sublime -- <https://github.com/danro/LESS-sublime> -- *Also replaces base CSS package*<br>
 SCSS.tmbundle -- <https://github.com/MarioRicalde/SCSS.tmbundle> -- *Soso syntax. Also works as CSS syntax replacement*<br>
 
+##### On standby
+LESS-sublime -- <https://github.com/danro/LESS-sublime> -- *Also replaces base CSS package*<br>
 Sublime CSS3 -- <https://github.com/i-akhmadullin/Sublime-CSS3><br>
 MarkdownEditing -- <https://github.com/SublimeText-Markdown/MarkdownEditing><br>
 Syntax highlight for Sass -- <https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass> -- *The best syntax. but no CSS completions.*<br>
@@ -17,6 +18,7 @@ Syntax highlight for Sass -- <https://packagecontrol.io/packages/Syntax%20Highli
 CSS Extended Completions -- <https://github.com/subhaze/CSS-Extended> -- *The best LESS/SCSS variables support on Sublime*<br>
 Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 
+##### On standby
 JS Patterns and Snippets -- <https://github.com/caiogondim/js-patterns-sublime-snippets><br>
 Drupal Completions -- <https://github.com/flashvnn/Drupal-Completion-ST><br>
 
@@ -27,15 +29,19 @@ Sublime Linter 3 -- <https://github.com/SublimeLinter/SublimeLinter3><br>
 > Sublimelinter - JShint -- <https://github.com/SublimeLinter/SublimeLinter-jshint><br>
 > Sublimelinter - HTML Tidy -- <https://github.com/SublimeLinter/SublimeLinter-html-tidy><br>
 > Sublimelinter - PHP -- <https://github.com/SublimeLinter/SublimeLinter-php><br>
+> Sublimelinter - sass-lint -- <https://github.com/skovhus/SublimeLinter-contrib-sass-lint>
+
+##### On standby
 > SublimeLinter-scss-lint -- <https://github.com/attenzione/SublimeLinter-scss-linter> -- *Remember that SCSS lint is Ruby based*<br>
 
 #### Visual Aids
 
 Bracket Highlighter -- <https://github.com/facelessuser/BracketHighlighter><br>
 Color Highlighter -- <https://github.com/Monnoroch/ColorHighlighter><br>
-Modific -- <https://github.com/gornostal/Modific><br>
+Modific -- <https://github.com/gornostal/Modific> -- *Similar to GitGutter. Can revert code per-line*<br>
 
-GitGutter -- <https://github.com/jisaacks/GitGutter> -- *More advanced than Modific, but can't show changes*<br>
+##### On standby
+GitGutter -- <https://github.com/jisaacks/GitGutter> -- *More advanced than Modific, but can't revert code*<br>
 
 #### Tools
 
@@ -48,6 +54,7 @@ DocBlockr -- <https://github.com/spadgos/sublime-jsdocs><br>
 Sublime SFTP -- <http://wbond.net/sublime_packages/sftp><br>
 OmniMarkupPreviewer -- <https://github.com/timonwong/OmniMarkupPreviewer><br>
 
+##### On standby
 Autoprefixer -- <https://github.com/sindresorhus/sublime-autoprefixer><br>
 Sublime Alignment -- <https://github.com/wbond/sublime_alignment><br>
 FTPSync - <https://github.com/NoxArt/SublimeText2-FTPSync><br>
