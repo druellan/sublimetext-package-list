@@ -59,6 +59,9 @@ Autoprefixer -- <https://github.com/sindresorhus/sublime-autoprefixer><br>
 Sublime Alignment -- <https://github.com/wbond/sublime_alignment><br>
 FTPSync - <https://github.com/NoxArt/SublimeText2-FTPSync><br>
 
+##### Mentions
+Origami -- https://github.com/SublimeText/Origami -- *Shortcuts for layouts. Slice the screen an move/clone views*<br>
+
 #### Themes
 
 Centurion -- <https://github.com/allanhortle/Centurion><br>
@@ -69,6 +72,9 @@ Theme Material -- <https://github.com/equinusocio/material-theme><br>
 Theme Curiosity -- <https://github.com/dmnplb/curiosity><br>
 Theme Asphalt -- <https://github.com/Orlmente/Theme-Asphalt><br>
 Premier Theme -- <https://packagecontrol.io/packages/Theme%20-%20Primer><br>
+
+##### Mentions
+Themr -- *Quickly switch themes*<br>
 
 #### Color Schemes
 
@@ -81,5 +87,6 @@ CSS3 -- <https://github.com/y0ssar1an/CSS3> -- *Nice up-to-date syntax, has its 
 HTML5 Snippets -- <https://github.com/mrmartineau/HTML5><br>
 Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel> -- *Less/CSS support is currently broken*<br>
 Ctags -- <https://github.com/SublimeText/CTags> -- *Tries to autocomplete everything, everywhere. Needs more test.*<br>
-sublime-list-less-vars -- <https://github.com/MaciekBaron/sublime-list-less-vars><br>
-Clean CSS -- <https://github.com/stolksdorf/CleanCSS><br>
+Clean CSS -- <https://github.com/stolksdorf/CleanCSS> -- *Beautify CSS and SASS*<br>
+DiffView -- <https://packagecontrol.io/packages/DiffView> -- *True GIT diff split screen view*<br>
+
