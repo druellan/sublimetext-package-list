@@ -89,4 +89,5 @@ Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel> -- *
 Ctags -- <https://github.com/SublimeText/CTags> -- *Tries to autocomplete everything, everywhere. Needs more test.*<br>
 Clean CSS -- <https://github.com/stolksdorf/CleanCSS> -- *Beautify CSS and SASS*<br>
 DiffView -- <https://packagecontrol.io/packages/DiffView> -- *True GIT diff split screen view*<br>
+LogMagic -- <https://packagecontrol.io/packages/LogMagic>
 
