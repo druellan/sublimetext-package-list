@@ -90,4 +90,5 @@ Ctags -- <https://github.com/SublimeText/CTags> -- *Tries to autocomplete everyt
 Clean CSS -- <https://github.com/stolksdorf/CleanCSS> -- *Beautify CSS and SASS*<br>
 DiffView -- <https://packagecontrol.io/packages/DiffView> -- *True GIT diff split screen view*<br>
 LogMagic -- <https://packagecontrol.io/packages/LogMagic>
+Hungry Backspace -- <https://github.com/xdrop/Hungry-Backspace>
 
