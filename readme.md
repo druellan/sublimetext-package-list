@@ -47,8 +47,8 @@ GitGutter -- <https://github.com/jisaacks/GitGutter> -- *More advanced than Modi
 
 Side​Bar​Enhancements -- <https://github.com/titoBouzout/SideBarEnhancements><br>
 Synced Sidebar -- <https://github.com/sobstel/SyncedSideBar><br>
-Sublime Text Git -- <https://github.com/kemayo/sublime-text-git><br>
 Git Conflict Resolver -- <https://github.com/Zeeker/sublime-GitConflictResolver><br>
+DiffView -- <https://packagecontrol.io/packages/DiffView> -- *True GIT diff split screen view*<br>
 Sublime Valign -- <https://github.com/jarod2d/sublime_valign> -- *Default keymap can cause some problems*<br>
 DocBlockr -- <https://github.com/spadgos/sublime-jsdocs><br>
 Sublime SFTP -- <http://wbond.net/sublime_packages/sftp><br>
@@ -56,6 +56,7 @@ OmniMarkupPreviewer -- <https://github.com/timonwong/OmniMarkupPreviewer><br>
 
 ##### On standby
 Autoprefixer -- <https://github.com/sindresorhus/sublime-autoprefixer><br>
+Sublime Text Git -- <https://github.com/kemayo/sublime-text-git><br>
 Sublime Alignment -- <https://github.com/wbond/sublime_alignment><br>
 FTPSync - <https://github.com/NoxArt/SublimeText2-FTPSync><br>
 
@@ -88,7 +89,6 @@ HTML5 Snippets -- <https://github.com/mrmartineau/HTML5><br>
 Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel> -- *Less/CSS support is currently broken*<br>
 Ctags -- <https://github.com/SublimeText/CTags> -- *Tries to autocomplete everything, everywhere. Needs more test.*<br>
 Clean CSS -- <https://github.com/stolksdorf/CleanCSS> -- *Beautify CSS and SASS*<br>
-DiffView -- <https://packagecontrol.io/packages/DiffView> -- *True GIT diff split screen view*<br>
 LogMagic -- <https://packagecontrol.io/packages/LogMagic>
 Hungry Backspace -- <https://github.com/xdrop/Hungry-Backspace>
 
