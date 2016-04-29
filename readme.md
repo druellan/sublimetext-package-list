@@ -16,6 +16,7 @@ Syntax highlight for Sass -- <https://packagecontrol.io/packages/Syntax%20Highli
 #### Completions / Snippets
 
 CSS Extended Completions -- <https://github.com/subhaze/CSS-Extended> -- *The best LESS/SCSS variables support on Sublime*<br>
+Javascript Completions -- <https://packagecontrol.io/packages/JavaScript%20Completions><br>
 Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 
 ##### On standby
