@@ -20,6 +20,7 @@ Javascript Completions -- <https://packagecontrol.io/packages/JavaScript%20Compl
 Jquery Package -- <https://github.com/SublimeText/jQuery><br>
 
 ##### On standby
+Bootstrap 3 Snippets -- <https://packagecontrol.io/packages/Bootstrap%204%20Snippets><br>
 JS Patterns and Snippets -- <https://github.com/caiogondim/js-patterns-sublime-snippets><br>
 Drupal Completions -- <https://github.com/flashvnn/Drupal-Completion-ST><br>
 
@@ -30,7 +31,8 @@ Sublime Linter 3 -- <https://github.com/SublimeLinter/SublimeLinter3><br>
 > Sublimelinter - JShint -- <https://github.com/SublimeLinter/SublimeLinter-jshint><br>
 > Sublimelinter - HTML Tidy -- <https://github.com/SublimeLinter/SublimeLinter-html-tidy><br>
 > Sublimelinter - PHP -- <https://github.com/SublimeLinter/SublimeLinter-php><br>
-> Sublimelinter - sass-lint -- <https://github.com/skovhus/SublimeLinter-contrib-sass-lint>
+> Sublimelinter - sass-lint -- <https://github.com/skovhus/SublimeLinter-contrib-sass-lint><br>
+> Sublimelinter - Bootlint -- <https://github.com/Thomas-Lebeau/SublimeLinter-contrib-bootlint><br>
 
 ##### On standby
 > SublimeLinter-scss-lint -- <https://github.com/attenzione/SublimeLinter-scss-linter> -- *Remember that SCSS lint is Ruby based*<br>
