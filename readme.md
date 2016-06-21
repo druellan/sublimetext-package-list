@@ -71,8 +71,10 @@ Origami -- https://github.com/SublimeText/Origami -- *Shortcuts for layouts. Sli
 Centurion -- <https://github.com/allanhortle/Centurion><br>
 Aprosopo -- <https://github.com/facelessuser/Aprosopo><br>
 Gravity Sublime Theme -- <https://github.com/frankyonnetti/gravity-sublime-theme><br>
-Theme Material -- <https://github.com/equinusocio/material-theme><br>
+Body Theme -- <https://github.com/oivva/boxy><br>
+> Boxy Linter Theme -- <https://github.com/oivva/boxy-addon-linter-theme><br>
 
+Theme Material -- <https://github.com/equinusocio/material-theme><br>
 Theme Curiosity -- <https://github.com/dmnplb/curiosity><br>
 Theme Asphalt -- <https://github.com/Orlmente/Theme-Asphalt><br>
 Premier Theme -- <https://packagecontrol.io/packages/Theme%20-%20Primer><br>
@@ -92,6 +94,8 @@ HTML5 Snippets -- <https://github.com/mrmartineau/HTML5><br>
 Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel> -- *Less/CSS support is currently broken*<br>
 Ctags -- <https://github.com/SublimeText/CTags> -- *Tries to autocomplete everything, everywhere. Needs more test.*<br>
 Clean CSS -- <https://github.com/stolksdorf/CleanCSS> -- *Beautify CSS and SASS*<br>
-LogMagic -- <https://packagecontrol.io/packages/LogMagic>
-Hungry Backspace -- <https://github.com/xdrop/Hungry-Backspace>
+LogMagic -- <https://packagecontrol.io/packages/LogMagic><br>
+Hungry Backspace -- <https://github.com/xdrop/Hungry-Backspace><br>
+Gremlins -- <https://www.inoreader.com/article/3a9c6e7c45e9933f-gremlins><br>
+REM Unit -- <https://www.inoreader.com/article/3a9c6e7fb9cbb11e-rem-unit><br>
 
