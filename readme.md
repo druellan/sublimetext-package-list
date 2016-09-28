@@ -3,11 +3,12 @@ A (kind of up-to-date) list of Sublime Text packages I regularly use on my HTML/
 
 #### Language Syntax
 
-Javacript Ultimate -- <https://github.com/JoshuaWise/javascript-ultimate> -- *Some problem with the Linter package. Take a look at the readme*<br>
-Jquery Package -- <https://github.com/SublimeText/jQuery><br>
+Babel Subime -- <https://github.com/babel/babel-sublime><br>
 SCSS.tmbundle -- <https://github.com/MarioRicalde/SCSS.tmbundle> -- *Soso syntax. Also works as CSS syntax replacement*<br>
 
 ##### On standby
+Jquery Package -- <https://github.com/SublimeText/jQuery><br>
+Javacript Ultimate -- <https://github.com/JoshuaWise/javascript-ultimate> -- *Some problem with the Linter package. Take a look at the readme*<br>
 LESS-sublime -- <https://github.com/danro/LESS-sublime> -- *Also replaces base CSS package*<br>
 Sublime CSS3 -- <https://github.com/i-akhmadullin/Sublime-CSS3><br>
 MarkdownEditing -- <https://github.com/SublimeText-Markdown/MarkdownEditing><br>
@@ -17,12 +18,12 @@ Syntax highlight for Sass -- <https://packagecontrol.io/packages/Syntax%20Highli
 
 CSS Extended Completions -- <https://github.com/subhaze/CSS-Extended> -- *The best LESS/SCSS variables support on Sublime*<br>
 Javascript Completions -- <https://packagecontrol.io/packages/JavaScript%20Completions><br>
-Jquery Package -- <https://github.com/SublimeText/jQuery><br>
-
-##### On standby
 Bootstrap 3 Snippets -- <https://packagecontrol.io/packages/Bootstrap%204%20Snippets><br>
 JS Patterns and Snippets -- <https://github.com/caiogondim/js-patterns-sublime-snippets><br>
 Drupal Completions -- <https://github.com/flashvnn/Drupal-Completion-ST><br>
+
+##### On standby
+Jquery Package -- <https://github.com/SublimeText/jQuery><br> -- Javascript Completions could replace this one
 
 #### Validation / Linting
 
@@ -48,7 +49,7 @@ GitGutter -- <https://github.com/jisaacks/GitGutter> -- *More advanced than Modi
 
 #### Tools
 
-Side​Bar​Enhancements -- <https://github.com/titoBouzout/SideBarEnhancements><br>
+Side-Bar-Enhancements -- <https://github.com/titoBouzout/SideBarEnhancements><br>
 Synced Sidebar -- <https://github.com/sobstel/SyncedSideBar><br>
 Git Conflict Resolver -- <https://github.com/Zeeker/sublime-GitConflictResolver><br>
 DiffView -- <https://packagecontrol.io/packages/DiffView> -- *True GIT diff split screen view*<br>
@@ -89,7 +90,6 @@ Monokay Gravity -- <https://github.com/frankyonnetti/gravity-sublime-theme> -- *
 
 ## Testing
 
-CSS3 -- <https://github.com/y0ssar1an/CSS3> -- *Nice up-to-date syntax, has its own validator*<br>
 HTML5 Snippets -- <https://github.com/mrmartineau/HTML5><br>
 Sublime Codeintel -- <https://github.com/SublimeCodeIntel/SublimeCodeIntel> -- *Less/CSS support is currently broken*<br>
 Ctags -- <https://github.com/SublimeText/CTags> -- *Tries to autocomplete everything, everywhere. Needs more test.*<br>
