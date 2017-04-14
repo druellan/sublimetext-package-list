@@ -4,7 +4,7 @@ A (kind of up-to-date) list of Sublime Text packages I regularly use on my HTML/
 #### Language Syntax
 
 Babel Subime -- <https://github.com/babel/babel-sublime><br>
-SCSS.tmbundle -- <https://github.com/MarioRicalde/SCSS.tmbundle> -- *Soso syntax. Also works as CSS syntax replacement*<br>
+Sublime-scss -- <https://github.com/invokemedia/sublime-scss> -- *very new but promissing* <br>
 
 ##### On standby
 Jquery Package -- <https://github.com/SublimeText/jQuery><br>
@@ -13,17 +13,19 @@ LESS-sublime -- <https://github.com/danro/LESS-sublime> -- *Also replaces base C
 Sublime CSS3 -- <https://github.com/i-akhmadullin/Sublime-CSS3><br>
 MarkdownEditing -- <https://github.com/SublimeText-Markdown/MarkdownEditing><br>
 Syntax highlight for Sass -- <https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass> -- *The best syntax. but no CSS completions.*<br>
+SCSS.tmbundle -- <https://github.com/MarioRicalde/SCSS.tmbundle> -- *Soso syntax. Also works as CSS syntax replacement*<br>
 
 #### Completions / Snippets
 
-CSS Extended Completions -- <https://github.com/subhaze/CSS-Extended> -- *The best LESS/SCSS variables support on Sublime*<br>
 Javascript Completions -- <https://packagecontrol.io/packages/JavaScript%20Completions><br>
+Sass Solution -- https://github.com/ahmedam55/SassSolution -- *Completions for variables and mixins*<br>
 Bootstrap 3 Snippets -- <https://packagecontrol.io/packages/Bootstrap%204%20Snippets><br>
 JS Patterns and Snippets -- <https://github.com/caiogondim/js-patterns-sublime-snippets><br>
 Drupal Completions -- <https://github.com/flashvnn/Drupal-Completion-ST><br>
 
 ##### On standby
 Jquery Package -- <https://github.com/SublimeText/jQuery><br> -- Javascript Completions could replace this one
+CSS Extended Completions -- <https://github.com/subhaze/CSS-Extended> -- *The best LESS/SCSS variables support on Sublime, but more and more outdated*<br>
 
 #### Validation / Linting
 
